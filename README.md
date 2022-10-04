@@ -12,7 +12,7 @@ Next  into the Coding part
 
     •  I used  HTML ,CSS and JAVASCRIPT for  this website 
     • I added 7 navigation bars like has like Home,   About, Menu, Products ,Review, Contact, Blogs
-#Home: 
+# Home: 
 In the home page I added the logo, background image with company name ,slogan and call to action button which helps users to call and order.
 
 About: In  the about us section i added all the information about the Pickle Brand
