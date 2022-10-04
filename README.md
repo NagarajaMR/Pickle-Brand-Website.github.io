@@ -21,3 +21,4 @@ Contact: :  in this section i added location, any queries from the customer they
 Blogs : I added blog section also
     • End with footer, which has our social media links and  i added navigation bars
 
+![1](https://user-images.githubusercontent.com/72555080/193756306-38015049-a084-4c98-ac8c-7c850dc66135.png)
